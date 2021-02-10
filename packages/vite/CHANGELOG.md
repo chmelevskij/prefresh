@@ -1,5 +1,11 @@
 # @prefresh/vite
 
+## 2.1.0
+
+### Minor Changes
+
+- [`f28edb0`](https://github.com/JoviDeCroock/prefresh/commit/f28edb079645ffefc94b4d597ce6aeb30ccffcec) [#270](https://github.com/JoviDeCroock/prefresh/pull/270) Thanks [@JoviDeCroock](https://github.com/JoviDeCroock)! - Allow using include/exclude in the vite plugin options
+
 ## 2.0.4
 
 ### Patch Changes
